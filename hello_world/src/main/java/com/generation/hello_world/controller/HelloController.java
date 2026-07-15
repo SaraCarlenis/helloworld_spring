@@ -16,13 +16,9 @@ public class HelloController {
 		return "Hello World";
 	}
 	
-	@GetMapping("/turma")
-	public String TurmaJava85() {
-		return "Turma 85 da Generation está na quarta semana!</b>";
-	}
 	
 	@GetMapping("/bsms")
-	public String ListaBsmsGeneration() {
+	public String ListaBsmsGeneration() { 
 		return ("Lista BSM’s da Generation Brasil: Atenção aos detalhes - Trabalho em Equipe - Comunicação");
 	}
 	
