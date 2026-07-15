@@ -16,4 +16,4 @@ O objetivo é praticar a criação de **endpoints REST** e entender melhor a est
 ---
 
 ## 👩‍💻 Autor ##
-Projeto desenvolvido por **Sara Hurador**, como parte das atividades da Generation Brasil.
+Projeto desenvolvido por **Sara Hurtado**, como parte das atividades da Generation Brasil.
